@@ -1,8 +1,8 @@
-#News Group Classification using NLP Algorithm.
+### News Group Classification using NLP Algorithm.
 
 This project is a News Group Classification system that uses natural language processing (NLP) algorithms to automatically categorize news articles into different categories based on their content. The goal of the project is to develop a model that can accurately predict the category of a given news article, such as sports, politics, technology, or entertainment.
 
-#Dataset
+# Dataset
 
 The dataset used for this project consists of a large collection of news articles from various sources, which are labeled with their corresponding category. The dataset was preprocessed by cleaning and transforming the text into a format that can be used by the NLP algorithm.
 
